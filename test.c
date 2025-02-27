@@ -4,8 +4,8 @@
 
 int main() {
     printf("Hello, HackTUES11!\n");
-    printf("Hello, HackTUES11!!!!!!!!!!");
     int a = MAGIC_NUM;
     printf("MAGIC_NUM = %d\n", a);
+    int b = a + 1;
     return 0;
 }
