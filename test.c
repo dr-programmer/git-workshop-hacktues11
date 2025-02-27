@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define MAGIC_NUM 6
+#define MAGIC_NUM 8
 
 int main() {
     printf("Hello, HackTUES11!\n");
