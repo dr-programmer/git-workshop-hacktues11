@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define HACK_TUES_EDITION 11
+#define MAGIC_NUM 6
 
 int main() {
     printf("Hello, HackTUES11!\n");
