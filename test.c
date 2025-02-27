@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-#define MAGIC_NUM 11
+#define HACK_TUES_EDITION 11
 
 int main() {
     printf("Hello, HackTUES11!\n");
-    printf("Hello, HackTUES11!!!!!!!!!!");
-    int a = MAGIC_NUM;
-    printf("MAGIC_NUM = %d\n", a);
+    int a = HACK_TUES_EDITION;
+    printf("HACK_TUES_EDITION = %d\n", a);
+    int b = a + 1;
     return 0;
 }
